@@ -8,6 +8,14 @@ Example output:
 
 ![alt tag](https://github.com/BradTu/PassABill/blob/master/VisualOutput.JPG)
 
-Sources for the voting percentages and inspiration: https://www.washingtonpost.com/news/the-fix/wp/2015/05/27/how-often-the-2016-candidates-agreed-and-disagreed-in-their-senate-votes-charted/?utm_term=.0d7365009bca http://www.realclearscience.com/journal_club/2015/04/24/political_partisanship_in_three_stunning_charts_109196.html
+Sources for the voting percentages and inspiration: 
 
-This program uses the StdDraw library created by Princeton University. http://introcs.cs.princeton.edu/java/stdlib/javadoc/StdDraw.html http://introcs.cs.princeton.edu/java/stdlib/StdDraw.java.html
+https://www.washingtonpost.com/news/the-fix/wp/2015/05/27/how-often-the-2016-candidates-agreed-and-disagreed-in-their-senate-votes-charted/?utm_term=.0d7365009bca 
+
+http://www.realclearscience.com/journal_club/2015/04/24/political_partisanship_in_three_stunning_charts_109196.html
+
+This program uses the StdDraw library created by Princeton University: 
+
+http://introcs.cs.princeton.edu/java/stdlib/javadoc/StdDraw.html 
+
+http://introcs.cs.princeton.edu/java/stdlib/StdDraw.java.html
